@@ -94,6 +94,10 @@ h3 {
   font-size: 16px;
   line-height: 20px;
 }
+
+.color-text span{
+  font-size: 15px;
+}
 .color-text,
 .company-title {
   font-style: normal;
@@ -145,8 +149,9 @@ li {
 }
 img {
   margin: 0 auto;
-  width: 300px;
-  height: 300px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
 }
 
 aside {
@@ -231,6 +236,10 @@ aside {
 
 .company{
   margin-bottom: 10px;
+}
+
+.work{
+  margin-bottom: 15px;
 }
 
 .company-list {
