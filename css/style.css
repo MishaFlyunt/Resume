@@ -16,6 +16,11 @@ h2,
   font-size: 14px;
   line-height: 17px;
   margin: 0 0 5px;
+  /* margin-bottom: 6px; */
+}
+
+.diploma-link{
+  margin-bottom: 4px;
 }
 
 h3 {
@@ -110,7 +115,7 @@ h3 {
   font-size: 18px;
   line-height: 27px;
   /* margin-top: 42px; */
-  margin-bottom: 3px;
+  margin-bottom: 2px;
 }
 h4 {
   font-style: normal;
