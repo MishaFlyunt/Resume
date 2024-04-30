@@ -1,5 +1,5 @@
 body {
-margin: 0;
+  margin: 0;
   /* padding: 40px; */
   font-family: "Montserrat", sans-serif;
 }
@@ -9,7 +9,8 @@ p {
   width: 100%;
 }
 
-h2 {
+h2,
+.diploma {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -23,8 +24,8 @@ h3 {
   font-size: 18px;
   line-height: 27px;
   margin-bottom: 7px;
-   
-   /* margin: 0; */
+
+  /* margin: 0; */
 }
 
 .wrapper {
@@ -95,7 +96,11 @@ h3 {
   line-height: 20px;
 }
 
-.color-text span{
+.color-diploma{
+  color: #161d2a;
+}
+
+.color-text span {
   font-size: 15px;
 }
 .color-text,
@@ -105,7 +110,7 @@ h3 {
   font-size: 18px;
   line-height: 27px;
   /* margin-top: 42px; */
-  margin-bottom: 10px;
+  margin-bottom: 3px;
 }
 h4 {
   font-style: normal;
@@ -129,7 +134,7 @@ li {
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
-  margin-bottom: 8px;
+  margin-bottom: 3px;
 }
 
 .skills {
@@ -137,7 +142,7 @@ li {
   width: 30%;
 }
 
-.skills-img{
+.skills-img {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -173,8 +178,8 @@ aside {
   margin: 0;
 }
 
-.contact{
-  color:#595959;
+.contact {
+  color: #595959;
 }
 .skills-list {
   margin: 0;
@@ -234,11 +239,11 @@ aside {
   gap: 12px;
 }
 
-.company{
+.company {
   margin-bottom: 10px;
 }
 
-.work{
+.work {
   margin-bottom: 15px;
 }
 
@@ -248,7 +253,7 @@ aside {
   /* width: 100%; */
 }
 
-.company-list-item{
+.company-list-item {
   width: 100%;
 }
 
