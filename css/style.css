@@ -50,10 +50,10 @@ h3 {
 }
 
 .my-profession {
-  margin-bottom: 18px;
+  /* margin-bottom: 18px; */
   color: #498ca4;
   font-size: 16px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .title-name {
@@ -264,9 +264,9 @@ aside {
 
 /* Education */
 
-.education-title {
+/* .education-title {
   margin-top: 30px;
-}
+} */
 
 .education-list {
   list-style: none;
